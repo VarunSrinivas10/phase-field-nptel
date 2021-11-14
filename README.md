@@ -1,2 +1,2 @@
-## phase-field-nptel
+## Phase Field NPTEL
 Contains python implementations of codes from the NPTEL lecture series on Phase Field Modelling by Prof. M P Gururajan, IIT Bombay
